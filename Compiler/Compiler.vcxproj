@@ -110,17 +110,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\input.cpp" />
+    <ClCompile Include="..\example\input.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Functions.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\input.cpp_output.txt" />
+    <Image Include="..\State Diagram.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\State Diagram.jpg" />
+    <Text Include="..\example\input.cpp_output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

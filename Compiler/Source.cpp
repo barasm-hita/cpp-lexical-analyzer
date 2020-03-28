@@ -9,7 +9,7 @@ void main()
 	cout << "Please enter a <.cpp> file location address or press Enter for default. (Default: D:\\input.cpp)\n";
 	getline(cin, fileadrs);
 	if (fileadrs == "")
-		fileadrs = "D:\\input.cpp";
+		fileadrs = "input.cpp";
 	ifstream input;
 	ofstream output;
 	input.open(fileadrs, ios::in);

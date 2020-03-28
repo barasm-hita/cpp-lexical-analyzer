@@ -1,0 +1,574 @@
+Name:	int
+Type:	KeyWord
+Column:	1
+Row:	1
+Block:	0
+------------------------------
+Name:	main
+Type:	Identifier
+Column:	5
+Row:	1
+Block:	0
+------------------------------
+Name:	(
+Type:	Delimiter
+Column:	9
+Row:	1
+Block:	0
+------------------------------
+Name:	)
+Type:	Delimiter
+Column:	10
+Row:	1
+Block:	0
+------------------------------
+Name:	{
+Type:	Delimiter
+Column:	1
+Row:	2
+Block:	1
+------------------------------
+Name:	bool
+Type:	KeyWord
+Column:	3
+Row:	3
+Block:	1
+------------------------------
+Name:	Ali88
+Type:	Identifier
+Column:	8
+Row:	3
+Block:	1
+------------------------------
+Name:	=
+Type:	Operator
+Column:	14
+Row:	3
+Block:	1
+------------------------------
+Name:	true
+Type:	Literal
+Column:	16
+Row:	3
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	20
+Row:	3
+Block:	1
+------------------------------
+Name:	int
+Type:	KeyWord
+Column:	3
+Row:	4
+Block:	1
+------------------------------
+Name:	_hiTa
+Type:	Identifier
+Column:	7
+Row:	4
+Block:	1
+------------------------------
+Name:	=
+Type:	Operator
+Column:	12
+Row:	4
+Block:	1
+------------------------------
+Name:	1395
+Type:	Integer Number
+Column:	13
+Row:	4
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	17
+Row:	4
+Block:	1
+------------------------------
+Name:	float
+Type:	KeyWord
+Column:	3
+Row:	5
+Block:	1
+------------------------------
+Name:	ehsan_vi
+Type:	Identifier
+Column:	9
+Row:	5
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	17
+Row:	5
+Block:	1
+------------------------------
+Name:	ehsan_vi
+Type:	Identifier
+Column:	3
+Row:	6
+Block:	1
+------------------------------
+Name:	=
+Type:	Operator
+Column:	11
+Row:	6
+Block:	1
+------------------------------
+Name:	12.34
+Type:	Real Number
+Column:	12
+Row:	6
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	17
+Row:	6
+Block:	1
+------------------------------
+Name:	for
+Type:	KeyWord
+Column:	3
+Row:	8
+Block:	1
+------------------------------
+Name:	(
+Type:	Delimiter
+Column:	6
+Row:	8
+Block:	1
+------------------------------
+Name:	int
+Type:	KeyWord
+Column:	7
+Row:	8
+Block:	1
+------------------------------
+Name:	i
+Type:	Identifier
+Column:	11
+Row:	8
+Block:	1
+------------------------------
+Name:	=
+Type:	Operator
+Column:	12
+Row:	8
+Block:	1
+------------------------------
+Name:	0
+Type:	Integer Number
+Column:	13
+Row:	8
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	14
+Row:	8
+Block:	1
+------------------------------
+Name:	i
+Type:	Identifier
+Column:	15
+Row:	8
+Block:	1
+------------------------------
+Name:	<
+Type:	Operator
+Column:	16
+Row:	8
+Block:	1
+------------------------------
+Name:	100
+Type:	Integer Number
+Column:	17
+Row:	8
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	20
+Row:	8
+Block:	1
+------------------------------
+Name:	i
+Type:	Identifier
+Column:	21
+Row:	8
+Block:	1
+------------------------------
+Name:	++
+Type:	Operator
+Column:	22
+Row:	8
+Block:	1
+------------------------------
+Name:	)
+Type:	Delimiter
+Column:	24
+Row:	8
+Block:	1
+------------------------------
+Name:	cout
+Type:	KeyWord
+Column:	3
+Row:	9
+Block:	1
+------------------------------
+Name:	<<
+Type:	Operator
+Column:	7
+Row:	9
+Block:	1
+------------------------------
+Name:	"Hi"
+Type:	Literal
+Column:	9
+Row:	9
+Block:	1
+------------------------------
+Name:	<<
+Type:	Operator
+Column:	13
+Row:	9
+Block:	1
+------------------------------
+Name:	A
+Type:	Identifier
+Column:	15
+Row:	9
+Block:	1
+------------------------------
+Name:	[
+Type:	Delimiter
+Column:	16
+Row:	9
+Block:	1
+------------------------------
+Name:	i
+Type:	Identifier
+Column:	17
+Row:	9
+Block:	1
+------------------------------
+Name:	]
+Type:	Delimiter
+Column:	18
+Row:	9
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	19
+Row:	9
+Block:	1
+------------------------------
+Name:	//A[i] has not been declared!
+Type:	Comment
+Column:	3
+Row:	10
+Block:	1
+------------------------------
+Name:	switch
+Type:	KeyWord
+Column:	3
+Row:	12
+Block:	1
+------------------------------
+Name:	(
+Type:	Delimiter
+Column:	9
+Row:	12
+Block:	1
+------------------------------
+Name:	Ali88
+Type:	Identifier
+Column:	10
+Row:	12
+Block:	1
+------------------------------
+Name:	)
+Type:	Delimiter
+Column:	15
+Row:	12
+Block:	1
+------------------------------
+Name:	{
+Type:	Delimiter
+Column:	3
+Row:	13
+Block:	2
+------------------------------
+Name:	case
+Type:	KeyWord
+Column:	5
+Row:	14
+Block:	2
+------------------------------
+Name:	true
+Type:	Literal
+Column:	10
+Row:	14
+Block:	2
+------------------------------
+Name:	:
+Type:	Delimiter
+Column:	14
+Row:	14
+Block:	2
+------------------------------
+Name:	cout
+Type:	KeyWord
+Column:	5
+Row:	15
+Block:	2
+------------------------------
+Name:	<<
+Type:	Operator
+Column:	9
+Row:	15
+Block:	2
+------------------------------
+Name:	'Hita'
+Type:	FAIL!!!
+Column:	11
+Row:	15
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	17
+Row:	15
+Block:	2
+------------------------------
+Name:	break
+Type:	KeyWord
+Column:	5
+Row:	16
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	10
+Row:	16
+Block:	2
+------------------------------
+Name:	case
+Type:	KeyWord
+Column:	5
+Row:	18
+Block:	2
+------------------------------
+Name:	false
+Type:	Literal
+Column:	10
+Row:	18
+Block:	2
+------------------------------
+Name:	:
+Type:	Delimiter
+Column:	15
+Row:	18
+Block:	2
+------------------------------
+Name:	cout
+Type:	KeyWord
+Column:	5
+Row:	19
+Block:	2
+------------------------------
+Name:	<<
+Type:	Operator
+Column:	9
+Row:	19
+Block:	2
+------------------------------
+Name:	"Hita"
+Type:	Literal
+Column:	11
+Row:	19
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	17
+Row:	19
+Block:	2
+------------------------------
+Name:	break
+Type:	KeyWord
+Column:	5
+Row:	20
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	10
+Row:	20
+Block:	2
+------------------------------
+Name:	default
+Type:	KeyWord
+Column:	5
+Row:	22
+Block:	2
+------------------------------
+Name:	:
+Type:	Delimiter
+Column:	12
+Row:	22
+Block:	2
+------------------------------
+Name:	signed
+Type:	KeyWord
+Column:	5
+Row:	23
+Block:	2
+------------------------------
+Name:	long
+Type:	KeyWord
+Column:	12
+Row:	23
+Block:	2
+------------------------------
+Name:	double
+Type:	KeyWord
+Column:	17
+Row:	23
+Block:	2
+------------------------------
+Name:	test_
+Type:	Identifier
+Column:	24
+Row:	23
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	29
+Row:	23
+Block:	2
+------------------------------
+Name:	test_
+Type:	Identifier
+Column:	5
+Row:	24
+Block:	2
+------------------------------
+Name:	=
+Type:	Operator
+Column:	10
+Row:	24
+Block:	2
+------------------------------
+Name:	-
+Type:	Operator
+Column:	11
+Row:	24
+Block:	2
+------------------------------
+Name:	19
+Type:	Integer Number
+Column:	12
+Row:	24
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	14
+Row:	24
+Block:	2
+------------------------------
+Name:	ehsan_vi
+Type:	Identifier
+Column:	5
+Row:	25
+Block:	2
+------------------------------
+Name:	+=
+Type:	Operator
+Column:	13
+Row:	25
+Block:	2
+------------------------------
+Name:	_hita
+Type:	Identifier
+Column:	15
+Row:	25
+Block:	2
+------------------------------
+Name:	+
+Type:	Operator
+Column:	20
+Row:	25
+Block:	2
+------------------------------
+Name:	test
+Type:	Identifier
+Column:	21
+Row:	25
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	25
+Row:	25
+Block:	2
+------------------------------
+Name:	break
+Type:	KeyWord
+Column:	5
+Row:	26
+Block:	2
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	10
+Row:	26
+Block:	2
+------------------------------
+Name:	}
+Type:	Delimiter
+Column:	3
+Row:	27
+Block:	2
+------------------------------
+Name:	/*
+  this is
+  a /multiline*
+  comment
+  */
+Type:	Comment
+Column:	3
+Row:	28
+Block:	1
+------------------------------
+Name:	return
+Type:	KeyWord
+Column:	3
+Row:	33
+Block:	1
+------------------------------
+Name:	0
+Type:	Integer Number
+Column:	10
+Row:	33
+Block:	1
+------------------------------
+Name:	;
+Type:	Delimiter
+Column:	11
+Row:	33
+Block:	1
+------------------------------
+Name:	}
+Type:	Delimiter
+Column:	1
+Row:	34
+Block:	1
+------------------------------
